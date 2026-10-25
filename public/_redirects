@@ -1,0 +1,4 @@
+/api/dishes        /api/dishes.json        200
+/api/restaurants   /api/restaurants.json   200
+/api/plans         /api/plans.json         200
+/*                 /index.html             200

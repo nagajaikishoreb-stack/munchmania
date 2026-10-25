@@ -1,0 +1,8 @@
+{
+  "name": "Remix FoodRush",
+  "description": "Order authentic biryanis, woodfired pizzas, dosas \u0026 craft burgers. Earn a guaranteed ₹20 reward on every single delivery with real-time order tracking and order cancellation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
